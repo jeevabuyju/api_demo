@@ -1,5 +1,5 @@
 // install all dependencies
-    npm install
+//   npm install
 
 // start server at port
-    npm start
+//   npm start
